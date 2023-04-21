@@ -22,5 +22,9 @@ public class HinhTron extends HinhHoc {
 
     public void tinhDienTich() {
         dienTich = PI * banKinh * banKinh;
+    }
+
+    public char[] ten() {
+        return null;
     }  
 }
