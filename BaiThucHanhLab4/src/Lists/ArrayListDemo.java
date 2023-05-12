@@ -18,4 +18,3 @@ public class ArrayListDemo {
         Student.Delete(arrayList);
     }
 }
-

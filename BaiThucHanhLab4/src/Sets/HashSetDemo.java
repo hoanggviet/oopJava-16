@@ -16,4 +16,3 @@ public class HashSetDemo {
         StudentSet.Delete(hastList);
     }
 }
-
